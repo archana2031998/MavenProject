@@ -8,7 +8,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Welcome</title>
+		<title>Welcome to java</title>
 	</head> 
 	<center><h1>Hello! welcome to Archana devops project</h1></center>
 	<body>
